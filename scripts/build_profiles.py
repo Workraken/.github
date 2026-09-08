@@ -118,14 +118,6 @@ def build_readme(code,t):
   <a href="https://github.com/Soy-Red?tab=overview&amp;org=Workraken">Ailin</a>
 </p>
 
-<details>
-<summary>{t['method_title']}</summary>
-
-{t['method_1'].format(**c)}
-
-{t['method_2']}
-
-</details>
 <!-- WORKRAKEN-ACTIVITY:END -->
 '''
 

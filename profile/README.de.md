@@ -88,12 +88,4 @@
   <a href="https://github.com/Soy-Red?tab=overview&amp;org=Workraken">Ailin</a>
 </p>
 
-<details>
-<summary>So werden diese Zahlen ermittelt</summary>
-
-Dieses Panel zeigt eine Momentaufnahme der Aktivität in den vier Repositories von WorKraken mit Stand vom 8. Sep 2026 · 12:43 (UTC−3). Eindeutige Commits auf den Standardbranches werden nach Autorendatum vom 09/09/2025 bis zum 08/09/2026 gezählt. Pull Requests und Issues werden nach ihrem Eröffnungsdatum gezählt.
-
-Private Repositories steuern ausschließlich aggregierte Zahlen bei. Der persönliche GitHub-Beitragskalender verwendet andere Kriterien und kann Projekte außerhalb von WorKraken enthalten; deshalb können die Zahlen abweichen. Dieses Panel wird bei der erneuten Datenerstellung aktualisiert und ist nicht der native interaktive GitHub-Kalender.
-
-</details>
 <!-- WORKRAKEN-ACTIVITY:END -->
