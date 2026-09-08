@@ -61,3 +61,30 @@
 <p align="center">
   <a href="https://workraken.com" title="WorKraken"><img src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/WorKraken-logo.png" width="360" alt="Visitar workraken.com"></a>
 </p>
+
+<!-- WORKRAKEN-ACTIVITY:START -->
+<h2>Actividad de desarrollo</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/activity-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/activity-light.svg">
+    <img width="900" src="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/activity-dark.svg" alt="Actividad de WorKraken: 2.319 commits en los últimos 12 meses, 82 días activos, 4 repositorios. Datos al 8 sep 2026 · 12:43 (UTC−3).">
+  </picture>
+</p>
+
+<p align="center">
+  Actividad individual en GitHub:
+  <a href="https://github.com/Rey-de-Amarillo?tab=overview&amp;org=Workraken">Joaquín</a> ·
+  <a href="https://github.com/Soy-Red?tab=overview&amp;org=Workraken">Ailin</a>
+</p>
+
+<details>
+<summary>Cómo se cuentan estos datos</summary>
+
+Este panel es una captura de la actividad de los cuatro repositorios de WorKraken al 8 sep 2026 · 12:43 (UTC−3). Se cuentan commits únicos de sus ramas principales por fecha de autor, del 09/09/2025 al 08/09/2026. Los pull requests y las issues se cuentan por fecha de apertura.
+
+Los repositorios privados aportan únicamente sus conteos agregados. El calendario personal de GitHub usa otros criterios y puede incluir proyectos ajenos a WorKraken, por eso sus cifras pueden ser distintas. Este panel se actualiza al regenerar sus datos; no es el calendario interactivo nativo de GitHub.
+
+</details>
+<!-- WORKRAKEN-ACTIVITY:END -->
