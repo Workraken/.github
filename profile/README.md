@@ -1,4 +1,13 @@
 <p align="center">
+  <a href="https://github.com/Workraken" title="Español"><img src="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/flags/es-spain-active.svg" alt="Español" width="48" height="48" /></a>
+  <a href="https://github.com/Workraken/.github/blob/main/profile/README.en.md" title="English"><img src="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/flags/en-inactive.svg" alt="English" width="48" height="48" /></a>
+  <a href="https://github.com/Workraken/.github/blob/main/profile/README.it.md" title="Italiano"><img src="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/flags/it-inactive.svg" alt="Italiano" width="48" height="48" /></a>
+  <a href="https://github.com/Workraken/.github/blob/main/profile/README.de.md" title="Deutsch"><img src="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/flags/de-inactive.svg" alt="Deutsch" width="48" height="48" /></a>
+  <a href="https://github.com/Workraken/.github/blob/main/profile/README.fr.md" title="Français"><img src="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/flags/fr-inactive.svg" alt="Français" width="48" height="48" /></a>
+  <a href="https://github.com/Workraken/.github/blob/main/profile/README.pt.md" title="Português"><img src="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/flags/pt-inactive.svg" alt="Português" width="48" height="48" /></a>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/WorKraken-marca-oscura.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/WorKraken-marca-clara.png">
@@ -69,7 +78,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/activity-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/activity-light.svg">
-    <img width="900" src="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/activity-dark.svg" alt="Actividad de WorKraken: 2.319 commits en los últimos 12 meses, 82 días activos, 4 repositorios. Datos al 8 sep 2026 · 12:43 (UTC−3).">
+    <img width="900" src="https://raw.githubusercontent.com/Workraken/.github/main/profile/assets/activity-dark.svg" alt="Actividad de WorKraken: 2.319 commits en los últimos 12 meses, 82 días activos, 4 repositorios. Datos al 8 Sep 2026 · 12:43 (UTC−3).">
   </picture>
 </p>
 
@@ -82,7 +91,7 @@
 <details>
 <summary>Cómo se cuentan estos datos</summary>
 
-Este panel es una captura de la actividad de los cuatro repositorios de WorKraken al 8 sep 2026 · 12:43 (UTC−3). Se cuentan commits únicos de sus ramas principales por fecha de autor, del 09/09/2025 al 08/09/2026. Los pull requests y las issues se cuentan por fecha de apertura.
+Este panel es una captura de la actividad de los cuatro repositorios de WorKraken al 8 Sep 2026 · 12:43 (UTC−3). Se cuentan commits únicos de sus ramas principales por fecha de autor, del 09/09/2025 al 08/09/2026. Los pull requests y las issues se cuentan por fecha de apertura.
 
 Los repositorios privados aportan únicamente sus conteos agregados. El calendario personal de GitHub usa otros criterios y puede incluir proyectos ajenos a WorKraken, por eso sus cifras pueden ser distintas. Este panel se actualiza al regenerar sus datos; no es el calendario interactivo nativo de GitHub.
 

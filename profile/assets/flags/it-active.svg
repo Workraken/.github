@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Italiano"><title>Italiano</title><defs><clipPath id="flag-circle"><circle cx="24" cy="24" r="19.5"/></clipPath></defs><g clip-path="url(#flag-circle)"><g transform="translate(4.5 4.5) scale(0.076171875)">
+  <g fill-rule="evenodd" stroke-width="1pt">
+    <path fill="#fff" d="M0 0h512v512H0z"/>
+    <path fill="#009246" d="M0 0h170.7v512H0z"/>
+    <path fill="#ce2b37" d="M341.3 0H512v512H341.3z"/>
+  </g>
+</g></g><circle cx="24" cy="24" r="22" fill="none" stroke="#C49A23" stroke-width="2.5"/></svg>

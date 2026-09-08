@@ -1,0 +1,1 @@
+Flags adapted from [flag-icons](https://github.com/lipis/flag-icons), distributed under the MIT license in LICENSE-flag-icons.txt. Circular clipping and selection ring added for the profile language selector.
