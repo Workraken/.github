@@ -38,11 +38,11 @@
 <h2 align="center">👥 Las personas detrás de WorKraken</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ailin-pizarro/" title="LinkedIn de Ailin Pizarro"><img width="96" height="96" alt="Ailin Pizarro, CEO de WorKraken" src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/team/ailin-pizarro-circle.png"></a><img width="84" height="1" alt="" src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/team/spacer.svg"><a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn de Joaquín Benítez"><img width="96" height="96" alt="Joaquín Benítez, CTO de WorKraken" src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/team/joaquin-benitez-circle.png"></a>
+  <a href="https://www.linkedin.com/in/ailin-pizarro/" title="LinkedIn de Ailin Pizarro"><img width="96" height="96" alt="Ailin Pizarro, CMO de WorKraken" src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/team/ailin-pizarro-circle.png"></a><img width="84" height="1" alt="" src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/team/spacer.svg"><a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn de Joaquín Benítez"><img width="96" height="96" alt="Joaquín Benítez, CTO de WorKraken" src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/team/joaquin-benitez-circle.png"></a>
 </p>
 
 <p align="center">
-  <strong>Ailin Pizarro</strong> · CEO<img width="42" height="1" alt="" src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/team/spacer.svg"><strong>Joaquín Benítez</strong> · CTO
+  <strong>Ailin Pizarro</strong> · CMO<img width="42" height="1" alt="" src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/team/spacer.svg"><strong>Joaquín Benítez</strong> · CTO
 </p>
 
 <h2 align="center">🌐 Sigamos en contacto</h2>
